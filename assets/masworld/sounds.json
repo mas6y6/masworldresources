@@ -1,0 +1,56 @@
+{
+    "music.secondwarning":{
+        "subtitle": "LobotomyCorporation OST - Second Warning",
+        "sounds": [
+            {
+                "name":"masworld:music/secondwarning",
+                "stream": true
+            }
+        ]
+    },
+    "music.hacknet_malwareinjection":{
+        "subtitle": "Hacknet OST - Malware Injection",
+        "sounds": [
+            {
+                "name":"masworld:music/hacknet_malwareinjection",
+                "stream": true
+            }
+        ]
+    },
+    "music.test_your_luck":{
+        "subtitle": "sapheria_xplicit - test your luck",
+        "sounds": [
+            {
+                "name":"masworld:music/test_your_luck",
+                "stream": true
+            }
+        ]
+    },
+    "music.approximate_nightmare":{
+        "subtitle": "sapheria_xplicit - approximate nightmare",
+        "sounds": [
+            {
+                "name":"masworld:music/approximate_nightmare",
+                "stream": true
+            }
+        ]
+    },
+    "music.panic_track":{
+        "subtitle": "Hacknet OST - Panic Track",
+        "sounds": [
+            {
+                "name":"masworld:music/panic_track",
+                "stream": true
+            }
+        ]
+    },
+    "music.roller_mobster":{
+        "subtitle": "Hacknet OST - Roller Mobster",
+        "sounds": [
+            {
+                "name":"masworld:music/roller_mobster",
+                "stream": true
+            }
+        ]
+    }
+}
