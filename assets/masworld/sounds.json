@@ -52,5 +52,14 @@
                 "stream": true
             }
         ]
+    },
+    "music.morshuwave":{
+        "subtitle": "Memnicus - M O R S H U W A V E",
+        "sounds": [
+            {
+                "name":"masworld:music/morshuwave",
+                "stream": true
+            }
+        ]
     }
 }
