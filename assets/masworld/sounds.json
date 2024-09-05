@@ -61,5 +61,86 @@
                 "stream": true
             }
         ]
+    },
+    "music.make_it":{
+        "subtitle": "Minecraft Story Mode Season 2 OST - Make It",
+        "sounds": [
+            {
+                "name":"masworld:music/make_it",
+                "stream": true
+            }
+        ]
+    },
+    "music.boot_up":{
+        "subtitle": "Minecraft Story Mode Season 2 OST - Boot Up",
+        "sounds": [
+            {
+                "name":"masworld:music/boot_up",
+                "stream": true
+            }
+        ]
+    },
+    "music.reuben":{
+        "subtitle": "Minecraft Story Mode Season 1 OST - Reuben",
+        "sounds": [
+            {
+                "name":"masworld:music/reuben",
+                "stream": true
+            }
+        ]
+    },
+    "music.no_more_creepers":{
+        "subtitle": "Minecraft Story Mode Season OST - No More Creepers",
+        "sounds": [
+            {
+                "name":"masworld:music/no_more_creepers",
+                "stream": true
+            }
+        ]
+    },
+    "music.doubletime":{
+        "subtitle": "Work at a pizza place OST - Double Time",
+        "sounds": [
+            {
+                "name":"masworld:music/doubletime",
+                "stream": true
+            }
+        ]
+    },
+    "music.almost_closing_time":{
+        "subtitle": "Work at a pizza place OST - Almost closing time",
+        "sounds": [
+            {
+                "name":"masworld:music/almost_closing_time",
+                "stream": true
+            }
+        ]
+    },
+    "music.an_afternoon_appetite":{
+        "subtitle": "Work at a pizza place OST - An afternoon appetite",
+        "sounds": [
+            {
+                "name":"masworld:music/an_afternoon_appetite",
+                "stream": true
+            }
+        ]
+    },
+    "music.good_morning_pizzeria":{
+        "subtitle": "Work at a pizza place OST - Good morning Pizzeria",
+        "sounds": [
+            {
+                "name":"masworld:music/good_morning_pizzeria",
+                "stream": true
+            }
+        ]
+    },
+    "music.stars_shine_like_pepperonis":{
+        "subtitle": "Work at a pizza place OST - Stars shine like pepperonis",
+        "sounds": [
+            {
+                "name":"masworld:music/stars_shine_like_pepperonis",
+                "stream": true
+            }
+        ]
     }
 }
