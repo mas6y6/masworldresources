@@ -1,0 +1,1 @@
+zip -r masworldresources.zip assets pack.mcmeta
