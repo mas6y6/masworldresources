@@ -142,5 +142,32 @@
                 "stream": true
             }
         ]
+    },
+    "music.chaos1":{
+        "subtitle": "Chaos1",
+        "sounds": [
+            {
+                "name":"masworld:music/chaos1",
+                "stream": true
+            }
+        ]
+    },
+    "music.chaos2":{
+        "subtitle": "Chaos2",
+        "sounds": [
+            {
+                "name":"masworld:music/chaos1",
+                "stream": true
+            }
+        ]
+    },
+    "music.chaos3":{
+        "subtitle": "Chaos3",
+        "sounds": [
+            {
+                "name":"masworld:music/chaos3",
+                "stream": true
+            }
+        ]
     }
 }
