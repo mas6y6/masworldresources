@@ -169,5 +169,32 @@
                 "stream": true
             }
         ]
+    },
+    "music.watch_the_world_burn":{
+        "subtitle": "IITPP OST - Watch the world burn",
+        "sounds": [
+            {
+                "name":"masworld:music/watch_the_world_burn",
+                "stream": true
+            }
+        ]
+    },
+    "music.horde_theme":{
+        "subtitle": "IITPP OST - Horde Theme",
+        "sounds": [
+            {
+                "name":"masworld:music/horde_theme",
+                "stream": true
+            }
+        ]
+    },
+    "music.skin_on_our_teeth":{
+        "subtitle": "IITPP OST - Horde Theme",
+        "sounds": [
+            {
+                "name":"masworld:music/skin_on_our_teeth",
+                "stream": true
+            }
+        ]
     }
 }
